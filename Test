@@ -1,0 +1,6 @@
+mkdir "Folder 1" "Folder 2"
+touch "file 1" 
+echo "Je m'appel Bruno" > "file 1"
+cp "file 1" "Folder 2"/"File 2" 
+mv "file 1" "Folder 1"
+
